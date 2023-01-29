@@ -1,7 +1,7 @@
 package com.udacity.DogRestApi.entity;
 
 import javax.persistence.*;
-
+// entity
 @Entity
 public class Dog {
     @Id
